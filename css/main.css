@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 #main {
   padding: 210px 0 160px;
   color: #fff;
-  /*background-color: rgba(0, 0, 0, 0.3);*/
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .main-form form {
@@ -446,6 +446,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .free_pick_response {
   padding: 120px 0 110px !important;
+  background-color: rgba(0,0,0, 0.3);
 }
 
 /*free_pick*/
