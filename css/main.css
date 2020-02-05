@@ -422,6 +422,21 @@ h6 {
 /*free_pick*/
 #free_pick {
   padding: 70px 0 110px;
+  position: relative;
+}
+
+#free_pick .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+#free_pick .container {
+  position: relative;
+  z-index: 99;
 }
 
 .free_pick {
