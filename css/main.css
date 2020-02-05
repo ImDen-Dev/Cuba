@@ -425,7 +425,8 @@ h6 {
   position: relative;
 }
 
-#free_pick .overlay {
+#free_pick:before {
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
