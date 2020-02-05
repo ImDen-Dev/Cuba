@@ -416,6 +416,7 @@ h1, h2, h3, h4, h5, h6 {
 /*free_pick*/
 #free_pick {
   padding: 70px 0 110px;
+  background-color: rgba(0,0,0, 0.3);
 }
 
 .free_pick {
@@ -423,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .free_pick span {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 2px 3px;
   font-size: 40px;
   letter-spacing: 0.02em;
